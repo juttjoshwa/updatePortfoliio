@@ -1,0 +1,69 @@
+.HomeROW{
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 50px 0 rgba(0, 0, 0, 0.59);
+    /* border: white solid .5px; */
+    height: 100%;
+    background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+}
+.HeroBg{
+    justify-content: center;
+    background-color: aliceblue;
+    border-radius: 12px;
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 50px 0 rgba(0, 0, 0, 0.59);
+}
+
+.HEROIMG{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+*{
+    font-family: 'Montserrat', sans-serif;
+}.Yashwa{
+    margin-top: 1rem;
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    letter-spacing: 2px;
+    font-size: 3rem;
+    font-weight: 600;
+}
+.Hi{
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 4ch;
+    text-align: center;
+    font-weight: 300;
+}
+.MERN{
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 1ch;
+    font-weight: 400;
+    text-align: center;
+}
+.Para{
+    margin-top: 2ch;
+    font-weight: 300;
+    text-align: center;
+}
+.leaveInfo{
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin-top: 3ch;
+}
+
+.main{
+    margin-top: 5ch;
+}
+.Container{
+    color: none;
+}
+.IdContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
